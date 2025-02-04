@@ -6,6 +6,8 @@ Here's what we will cover:
 - misses and critical hits
 - enemy difficulties
 
+Link to generate ASCII text : https://patorjk.com/software/taag/#p=display&f=ANSI%20Shadow&t=YOU%20WIN
+
 # Random Attacks & Random Damage
 To have a random output, we need to use a random number generator. First, we are going to import the random module.
 
